@@ -19,7 +19,7 @@ public class LessonJava1 {
             System.out.println(name + "," + " Сиди лучше дома, ты старый");
         }
         else {
-            System.out.println(name + " Сиди лучше дома, ты старый");
+            System.out.println(name + " Ты справишься)");
         }
 
         scanner.close();
