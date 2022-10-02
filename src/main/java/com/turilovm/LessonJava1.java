@@ -6,11 +6,7 @@ public class LessonJava1 {
 
     public static void main(String [] args){
 
-        //int temp = 15;
-//        //int age = 36;
         String name = "Mike";
-//        String weather = "Rain";
-////        int oldMan = 65 - age;
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введи свой возраст");
@@ -27,7 +23,6 @@ public class LessonJava1 {
         }
 
         scanner.close();
-
 
     }
 }
